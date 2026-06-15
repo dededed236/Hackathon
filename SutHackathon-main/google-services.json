@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446975142390",
+    "project_id": "hackathin-83f90",
+    "storage_bucket": "hackathin-83f90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446975142390:android:14be65238489ecd31effd7",
+        "android_client_info": {
+          "package_name": "com.hackathin.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWPJM-M9vZp-xPTNsuidIvkxJLYi-kUWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
